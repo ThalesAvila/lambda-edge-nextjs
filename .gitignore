@@ -104,3 +104,4 @@ dist
 .tern-port
 
 serverless-nextjs/.serverless_nextjs
+nextjs-styling/.serverless_nextjs
