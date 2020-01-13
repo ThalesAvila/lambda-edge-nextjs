@@ -111,3 +111,12 @@ functions:
 #     NewOutput:
 #       Description: "Description for the output"
 #       Value: "Some output value"
+plugins:
+  - serverless-finch
+
+custom:
+  client:
+    bucketName: thales-avila-serverlessjams
+    distributionFolder: frontend
+    indexDocument: index.html
+    errorDocument: index.html
